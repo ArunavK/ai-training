@@ -1,3 +1,11 @@
+# Video Tutorial files
+*.mp4
+*.mkv
+
+# IDE specific files
+.vscode/
+*.sw*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
